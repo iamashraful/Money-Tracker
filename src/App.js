@@ -26,7 +26,7 @@ export default class App extends Component<{}> {
                 </Button>
                 <Button
                     style={{flex: 1, marginTop: 7}}
-                    type="primary" kind="squared"
+                    type="danger" kind="squared"
                     textStyle={{fontSize: 20}}
                 >
                     Report
